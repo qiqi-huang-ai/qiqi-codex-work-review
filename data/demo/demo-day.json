@@ -1,0 +1,17 @@
+{
+  "demo": true,
+  "notice": "脱敏演示资料，不代表 Codex 已采集的真实数据",
+  "range": { "start": "2026-10-20", "end": "2026-10-20" },
+  "sessions": [
+    {
+      "id": "demo-session",
+      "title": "示例：完成复盘原型",
+      "cwd": "/示例项目",
+      "messages": [
+        { "role": "user", "text": "先完成可点击原型，并验证导入流程。" },
+        { "role": "assistant", "text": "原型文件已经创建；运行验证尚未执行。" }
+      ],
+      "toolCalls": ["apply_patch"]
+    }
+  ]
+}
