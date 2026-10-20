@@ -1,10 +1,10 @@
 {
-  "name": "codex-review-workbench",
+  "name": "qiqi-codex-work-review",
   "version": "0.1.0",
   "private": true,
   "description": "Local-first work reviews generated from Codex conversation history.",
   "license": "MIT",
-  "repository": "https://github.com/qiqi-huang-ai/codex-work-review",
+  "repository": "https://github.com/qiqi-huang-ai/qiqi-codex-work-review",
   "type": "module",
   "scripts": {
     "start": "node server.mjs",

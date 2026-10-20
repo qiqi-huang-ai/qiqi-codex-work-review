@@ -1,5 +1,5 @@
 ---
-name: codex-work-review
+name: qiqi-codex-work-review
 description: Start and use a local Codex conversation review workbench when the user wants to review work from Codex history by date range or keyword. The workbench lets the user select evidence and manually generate a review with Codex.
 ---
 

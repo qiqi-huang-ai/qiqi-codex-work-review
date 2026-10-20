@@ -13,4 +13,5 @@
 - Add full-conversation keyword search, match explanations, and explicit all-versus-selected evidence scope.
 - Remove the project filter to keep review scope limited to date, keyword, and manual selection.
 - Package the workbench as an installable Codex Skill with local start and stop scripts.
+- Rename the public Skill and repository to `qiqi-codex-work-review`.
 - Replace daily, weekly, and project-stage generation modes with one custom time-range review.

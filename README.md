@@ -7,7 +7,7 @@
 ## 安装为 Codex Skill
 
 ```bash
-npx skills add qiqi-huang-ai/codex-work-review -g -y
+npx skills add qiqi-huang-ai/qiqi-codex-work-review -g -y
 ```
 
 安装后对 Codex 说：
@@ -34,8 +34,8 @@ Codex 会运行 Skill 自带的启动脚本并打开本地工作台。安装包�
 ## 从源码启动
 
 ```bash
-git clone https://github.com/qiqi-huang-ai/codex-work-review.git
-cd codex-review-workbench
+git clone https://github.com/qiqi-huang-ai/qiqi-codex-work-review.git
+cd qiqi-codex-work-review
 npm start
 ```
 
